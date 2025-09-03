@@ -1,4 +1,4 @@
-# 📊 AI Sales Prediction using Neural Networks
+# 📊 Predicting and selling a store in the field of artificial intelligence using neural networks
 
 **Python + TensorFlow / Scikit-learn project** for predicting sales based on **Advertising budget** and **Product Price**.
 
