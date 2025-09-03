@@ -1,4 +1,3 @@
-# AI_Sales_Prediction-
 # 📊 AI Sales Prediction using Neural Networks
 
 **Python + TensorFlow / Scikit-learn project** for predicting sales based on **Advertising budget** and **Product Price**.
@@ -22,7 +21,7 @@ It is a simple yet practical example of **Machine Learning / AI applied to busin
 
 ## 📂 Project Structure
 
----
+├── sales_prediction.py   # Main Python code ├── README.md             # Project documentation
 
 ## 📊 Results
 - Neural Network predicts sales trends accurately based on advertising and price  
@@ -39,6 +38,37 @@ It is a simple yet practical example of **Machine Learning / AI applied to busin
 1. Clone this repository:
 ```bash
 git clone https://github.com/your-username/AI-Sales-Prediction.git
+
+2. Install dependencies:
+
+
+
+pip install -r requirements.txt
+
+3. Run the project:
+
+
+
+python sales_prediction.py
+
+
+---
+
+🌍 Tech Stack
+
+Python 3.x
+
+TensorFlow / Keras
+
+Scikit-learn
+
+Pandas
+
+Matplotlib
+
+
+---
+
 
 📌 Notes
 
